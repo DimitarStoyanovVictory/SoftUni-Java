@@ -1,0 +1,15 @@
+dimitarstoyanov@ubuntu:~$ cd workspace/Homework01-Intro-Java/src
+dimitarstoyanov@ubuntu:~/workspace/Homework01-Intro-Java/src$ javac SumTwoNumbers.java
+dimitarstoyanov@ubuntu:~/workspace/Homework01-Intro-Java/src$ ls -al
+total 20
+drwxrwxr-x 2 dimitarstoyanov dimitarstoyanov 4096 Sep  5 01:35 .
+drwxrwxr-x 5 dimitarstoyanov dimitarstoyanov 4096 Sep  4 07:46 ..
+-rw-rw-r-- 1 dimitarstoyanov dimitarstoyanov  187 Sep  4 23:38 CurentDateTime.java
+-rw-rw-r-- 1 dimitarstoyanov dimitarstoyanov  556 Sep  5 01:35 SumTwoNumbers.class
+-rw-rw-r-- 1 dimitarstoyanov dimitarstoyanov  256 Sep  5 00:28 SumTwoNumbers.java
+dimitarstoyanov@ubuntu:~/workspace/Homework01-Intro-Java/src$ java SumTwoNumbers
+2
+5
+7
+
+
